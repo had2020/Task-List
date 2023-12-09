@@ -63,6 +63,7 @@ Remove the paragraph element from the to-do container element.
 
 -------------------------------------------------------------
 
+
 https://github.com/had2020/Task-List/assets/59424667/ff9f6f16-d7c0-4d49-82fb-eb087b1f22e8
 
 -------------------------------------------------------------
