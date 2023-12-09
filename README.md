@@ -65,7 +65,7 @@ Remove the paragraph element from the todo container element
 
 some Docs for you - https://developer.mozilla.org/en-US/docs/Web/CSS
 
-and some more Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+and some more Docs wow what a reader you are- https://developer.mozilla.org/en-US/docs/Web/JavaScript
 ------------------------------------
 
 
