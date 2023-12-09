@@ -35,6 +35,8 @@ A div element with the class todos and the id toDoContainer that contains the li
 A script element that links to the external JavaScript file that contains the logic of the application
 An audio element with the controls and autoplay attributes that plays a music file in the background It has a source element that specifies the path and the type of the music file and a fallback text for browsers that do not support the audio element
 
+Some Docs for you - https://developer.mozilla.org/en-US/docs/Web/HTML
+
 ------------------------------------
 
 CSS
@@ -61,6 +63,9 @@ Add a linethrough style to the paragraph element
 Add an event listener to the paragraph element that triggers a function when doubleclicked The function does the following
 Remove the paragraph element from the todo container element
 
+some Docs for you - https://developer.mozilla.org/en-US/docs/Web/CSS
+
+and some more Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 ------------------------------------
 
 
