@@ -2,7 +2,7 @@
 A Javascript Task List
 
 # What is it
-An Application built in Javascirpt. Its a Task List or in other words a to do list. 
+An Application built in JavaScript. a Task List or in other words a to do list. 
 The idea of the application is for a user to write tasks they need complete, and this will help organize the users life.
 The application also comes with a built in music player, which plays music from the music.mp3 file. This music helps the user 
 keep their attraction and focus on the application.
