@@ -1,0 +1,64 @@
+/* Apply these styles to the html and body elements */
+html, body {
+    /* Set their width to 70% of the viewport width */
+    width: 70%;
+    /* Center them horizontally by setting equal margins on both sides */
+    margin: 0 auto;
+    /* Use a different font family that is also widely supported */
+    font-family: "Times New Roman", Times, serif;
+    /* Set the background color to a light gray */
+    background-color: lightgray;
+}
+
+/* Apply these styles to the element with the class container */
+.container {
+    /* Set its width to a relative value of 70% of its parent element's width */
+    width: 70%;
+}
+
+/* Apply these styles to the element with the id inputField */
+#inputField {
+    /* Set its width to a relative value of 60% of its parent element's width */
+    width: 60%;
+    /* Set its height to a relative value of 20% of its parent element's height */
+    height: 20%;
+    /* Remove the default border by setting its width to 0 */
+    border-width: 0;
+    /* Add a custom border of 4 pixels solid red */
+    border: 4px solid red;
+    /* Remove the default outline that appears on focus */
+    outline: none;
+    /* Set the font size to a smaller value of 16 pixels */
+    font-size: 16px;
+    /* Align the element vertically with the middle of its parent element */
+    vertical-align: middle;
+}
+
+/* Apply these styles to the element with the id addToDo */
+#addToDo {
+    /* Set its height and width to the same relative value of 20% of its parent element's height */
+    height: 20%;
+    width: 20%;
+    /* Add a custom border of 4 pixels solid red */
+    border: 4px solid red;
+    /* Align the element vertically with the middle of its parent element */
+    vertical-align: middle;
+    /* Set the font size to a smaller value of 18 pixels */
+    font-size: 18px;
+}
+
+/* Apply these styles to the elements with the class paragraph-styling */
+.paragraph-styling {
+    /* Remove the default margin that creates space around the elements */
+    margin: 0;
+    /* Change the cursor to a pointer when hovering over the elements */
+    cursor: pointer;
+    /* Set the font size to a smaller value of 14 pixels */
+    font-size: 14px;
+}
+
+/* Apply these styles to the element with the class to-dos */
+.to-dos {
+    /* Add some margin on top of the element to create some space */
+    margin-top: 15px;
+}

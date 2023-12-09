@@ -1,0 +1,43 @@
+<!-- Declare the document type as HTML -->
+<!DOCTYPE html>
+<!-- Start the HTML document and specify the language as English -->
+<html lang="en">
+<!-- Start the head section that contains metadata and links -->
+<head>
+    <!-- Specify the character encoding as UTF-8 -->
+    <meta charset="UTF-8">
+    <!-- Specify the viewport settings for responsive design -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link the external CSS file that contains the styles -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Specify the title of the document -->
+    <title>Task List</title>
+<!-- End the head section -->
+</head>
+<!-- Start the body section that contains the visible content -->
+<body> 
+    <!-- Add a heading with the text Task List -->
+    <h1>Task List</h1>
+    <!-- Add a div element with the class container that wraps the input field, the button, and the to-do list -->
+    <div class="container">
+        <!-- Add an input element with the id inputField and the type text that allows the user to enter a task -->
+        <input id="inputField" type="text">
+        <!-- Add a button element with the id addToDo and the text + that allows the user to add a task to the list -->
+        <button id="addToDo">+</button>
+        <!-- Add a div element with the class to-dos and the id toDoContainer that contains the list of tasks -->
+        <div class="to-dos" id="toDoContainer">
+        </div>
+    </div>
+    <!-- Link of external JavaScript file that contains the logic -->
+    <script src="main.js"></script>
+    <!-- Add an audio element with the controls and autoplay attributes that plays a music file in the background -->
+    <audio controls autoplay>
+        <!-- Add a source element with the src attribute that specifies the path to the music file and the type attribute that specifies the media type -->
+        <source src="music.mp3" type="audio/mpeg">
+        <!-- Add a fallback text for browsers that do not support the audio element -->
+        Your browser does not support the audio element.
+    </audio>
+<!-- End the body section -->
+</body>
+<!-- End the HTML document -->
+</html>
